@@ -1,0 +1,11 @@
+.idea/
+venv/
+cv.rar
+requirements.txt
+text.txt
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
